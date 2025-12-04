@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Abhinay Patil<br>💻 Full-Stack Developer passionate about building scalable and user-friendly applications.<br><br>🌐 Frontend: Angular<br>⚙️ Backend: Java (Spring Boot)<br>🛠️ Other Skills: REST APIs, HTML, CSS, TypeScript<br>📦 Databases: MySQL, PostgreSQL<br>🚀 Always learning and exploring new technologies to deliver high-quality solutions.
+👋 Hi, I’m Abhinay Patil<br>💻 Full-Stack Developer passionate about building scalable and user-friendly applications.<br><br>🌐 Frontend: Angular<br>⚙️ Backend: Java (Spring Boot)<br>🛠️ Other Skills: REST APIs, HTML, CSS, TypeScript<br>📦 Databases: MySQL<br>🚀 Always learning and exploring new technologies to deliver high-quality solutions.
 
 
 ## 🌐 Socials:
